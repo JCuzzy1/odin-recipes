@@ -1,0 +1,112 @@
+body {
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    color: black;
+}
+
+div {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.card {
+    width: 400px;
+    background-color: white;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.my-title {
+    background-color: whitesmoke;
+    color: black;
+    padding: 8px;
+    border-bottom: 1px solid black;
+    
+}
+
+.recipe-one {
+    background-color: lightcyan;
+    margin-top: 8px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.recipe-two {
+    background-color: lightskyblue;
+    margin-top: 8px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.recipe-three {
+    background-color: lightseagreen;
+    margin-top: 8px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.button-container {
+    background-color: lightpink;
+    margin-top: 8px;
+    padding: 8px;
+    color: black;
+    text-align: center;
+
+}
+
+button {
+    background: grey;
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+    margin-top: 4px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+
+p {
+    color: black;
+}
+
+#steps-color {
+    background-color: white;
+    color: black;
+}
+
+.ing-color {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.steps-color {
+    background-color: white;
+    color: black;
+}
+
+.first-element {
+    color: red
+}
+
+.second-element {
+    color: green
+}
+
+.third-element {
+    color: gold
+}
+
